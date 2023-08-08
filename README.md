@@ -12,3 +12,5 @@ Exit qemu and go to your shell:
 ```
 C-a x
 ```
+# How to add a new system call?
+1-Add the system call number (22) to syscall.h file
